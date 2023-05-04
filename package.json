@@ -1,0 +1,20 @@
+{
+  "name": "meu-primeiro-servidor",
+  "version": "0.0.1",
+  "description": "Projeto desenvolvido na aula de primeiro servidor da Cubos Acamy, curos de back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "servidor",
+    "npm"
+  ],
+  "author": "Léo Müller",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
